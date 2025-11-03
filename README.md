@@ -69,3 +69,5 @@ Jenkins-auto-test
 ```bash
 git clone https://github.com/Archit-01/Jenkins-auto-test.git
 cd Jenkins-auto-test
+
+// Archit Patil
